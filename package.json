@@ -1,6 +1,6 @@
 {
   "name": "@monvechen/port-check",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "for compare version",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
