@@ -1,6 +1,6 @@
 {
   "name": "@monvechen/port-check",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Check if the port is reachable",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,8 +21,9 @@
     "url": "git+https://github.com/MonveChen/port-check.git"
   },
   "keywords": [
-    "version",
-    "compare"
+    "port",
+    "check",
+    "reachable"
   ],
   "author": "Monve",
   "license": "Apache-2.0",
