@@ -1,7 +1,7 @@
 {
   "name": "@monvechen/port-check",
-  "version": "1.0.4",
-  "description": "for compare version",
+  "version": "1.0.5",
+  "description": "Check if the port is reachable",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
